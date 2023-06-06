@@ -46,8 +46,8 @@ title = 'myblog'
   url = "contact/"
 
 [[params.topmenu]]
-  name = "my favourite bird"
-  url = "posts/kookaburra/"
+  name = "Newest Project"
+  url = "posts/film.fyi/"
 
 [[params.topmenu]]
   name = "rss"
@@ -55,5 +55,3 @@ title = 'myblog'
 
 theme = "paperesque"
 
-[outputs]
-page = ["HTML", "droplist"]
