@@ -1,6 +1,6 @@
 ---
-date: 2020-01-03
-title: "Film Photography Website"
+date: 2023-06-06
+title: "Film.Fyi"
 tags:
 - Projects
 - Film
@@ -11,8 +11,8 @@ tags:
 
 {{< figure
   src="featured.jpg"
-  caption="Film.Fyi built with Hugo"
-  attr="-- Film"
+  caption="a large library of high resultion film photography as a browsable  web gallery"
+  attr="-- Film.fyi"
   attrlink="https://film.fyi"
 >}}
 
@@ -22,20 +22,9 @@ This is unfinished but check out my new webiste.
 Just Click the image above!
 
 
-I make it to be really performant. Cheap to host and automated so as I rate things 3 stars or higher in light room they will aprear. .[^location] d$Unlike most other species, it frequents every variety of situation; the luxuriant brushes stretching along the coast, the more thinly-timbered forest, the belts of trees studding the parched plains and the brushes of the higher ranges being alike favoured with its presence; over all these localities it is rather thinly dispersed being nowhere very numerous.
+My goal was to figure out a was to make large image gallery really performant as a web application. Cheap to host and automated so as I rate things 3 stars or higher in Lightroom they will appear. [^location]  my first versions of this use a random assorment of images which i like but found a common complain among people checking it out was that it was diffifult to find any particular image they found before.
 
-[^location]: herss the footnote i guess?  dont worry about the rest its just filler text. The plate in the Pl. Enl., quoted above, has been considered by all previous writers to have reference to this bird, and while I coincide in this opinion, I think that some mistake must have arisen as to the locality, and that it never visits New Guinea nor even the northern coast of Australia, where its place is supplied by the Dacelo cervina and D. Leachii.
+[^location]: here is the footnote i guess?  dont worry about the rest its just filler text. The plate in the Pl. Enl., quoted above, has been considered by all previous writers to have reference to this bird, and while I coincide in this opinion, I think that some mistake must have arisen as to the locality, and that it never visits New Guinea nor even the northern coast of Australia, where its place is supplied by the Dacelo cervina and D. Leachii.
 
 I believe that this bird seldom, if ever, drinks; consequently the most arid plains are as suitable to its habits as the shrouded river sides and the flat brushes near the coast.
 
-Its food, which is of a mixed character, consists exclusively of animal substances; reptiles, insects and crabs, however, appear to be its favourite diet, upon which it is destined by nature to subsist: it devours lizards with avidity, and it is not an unfrequent sight to see it bearing off a snake in its bill to be eaten at leisure; it also preys on small mammalia.[^the-rat] It breeds during the months of August and September, and generally selects a hole in a large gum-tree for the purpose; making no nest, but depositing its beautiful pearl-white eggs, which are one inch and nine lines long by one inch and five lines broad, on the decomposed wood at the bottom of the hole. When there are young ones in it, it defends its breeding-place with great courage and daring, darting down upon any intruder who may attempt to ascend the tree, and inflicting severe and dangerous blows with its pointed bill.
-
-[^the-rat]: I recollect shooting a Great Brown Kingfisher in South Australia in order to secure a fine rat I saw hanging from its bill, and which proved to be a rare species inhabiting the plains of that part of the country.
-
-The sexes present so little difference in the colouring of their plumage, that they are scarcely distinguishable from each other; neither do the young at a month old exhibit any great variation from the adult, the only difference being that the markings are somewhat darker and the brown more generally diffused.
-
-It bears confinement remarkably well, and is one of the most amusing birds for the aviary with which I am acquainted: examples have been brought alive to England; one lived for several years in the Gardens of the Zoological Society of London, and at the moment I am writing (April 1843) a fine individual brought from New South Wales by Mr. Yaldwyn, is now living at his seat at Blackdown in Sussex, where it attracts the attention of every one by its singular actions and extraordinary notes, which are poured forth as freely as in its native wilds.
-
-Forehead brown, each feather with a stripe of blackish brown down the centre; crown of the head, lores, ear-coverts, and a broad band passing round the occiput blackish brown; space between the crown of the head and the band encircling the occiput, and the back of the neck buff, crossed by fine irregular lines of dark brown; back and wings brownish black; the wing-coverts and rump tipped with verditer green; primaries white at the base, black for the remainder of their length, and stained with green on their outer margins immediately behind the white; upper tail-coverts blackish brown, crossed by several broad irregular bands of rusty red; tail brownish black, tipped with white, the white increasing in extent as the feathers recede from the centre; the central feathers crossed near the tip with rusty red; the lateral feathers with brownish black, the bands being very narrow near the tip, and gradually increasing in breadth as they approach the base, where the white interspaces also become tinged with rusty red; under surface pale buffy white, crossed by fine irregular freckled markings of dark brown; upper mandible brownish black; under mandible pale buff; feet olive; irides dark brown; eyelash olive-brown.
-
-The figures represent a male and two young of the natural size.
